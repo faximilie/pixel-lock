@@ -12,7 +12,7 @@
 lock_overlay="/home/kitty/.lock_overlay.png"
 
 # The amount to pixelate the background by
-pixelation_ammount=8
+pixelation_ammount=10
 
 
 # The total x space of the displays
